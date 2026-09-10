@@ -41,3 +41,34 @@ Employee()
 
     }
 
+
+
+Output:
+ g++ OOP2.cpp -o OOP2      
+PS R:\S Coding> .\OOP2              
+Enter Employee ID: 108
+Enter Name: wanda
+Enter Department: Magic
+Enter Salary: 5000000.99
+Enter Designation: 9
+ ---------Employee Details--------
+Employee ID: 108
+Name: wanda
+Department: Magic
+Salary: 5000000
+Designation: 0
+PS R:\S Coding> g++ OOP2.cpp -o OOP2                                                                                                                                          
+PS R:\S Coding> .\OOP2
+Enter Employee ID: 123
+Enter Name: T'chelle
+Enter Department: Fighting
+Enter Salary: 90000000
+Enter Designation: 1
+--------Employee Details--------
+Employee ID: 123
+Name: T'chelle
+Department: Fighting
+Salary: 90000000
+Designation: 1
+PS R:\S Coding> 
+
