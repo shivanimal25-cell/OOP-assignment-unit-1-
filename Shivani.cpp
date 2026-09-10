@@ -37,5 +37,11 @@ class Book
     } 
 
 
-
+output:
+-------Book Details-------
+Book Id: 945
+Title: C++ programmming
+Author: Bjarne Stroustrup
+Price: 500
+Quantity: 10
     
