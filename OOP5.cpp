@@ -36,3 +36,16 @@ int main()
     b1.display();
     return 0;
 }
+
+Output:
+Enter book title: 
+"Avengers Endgamr"
+Enter book author: 
+Enter publication year: 
+2022
+Enter book price: 
+2000
+Book Title: "Avengers
+Book Author: Endgamr"
+Publication Year: 2022
+Book Price: 2000
