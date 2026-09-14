@@ -40,3 +40,14 @@ int main()
 
     return 0;
 }
+
+Output:
+------Book 1 Details------
+Title:  Rich dad Poor dad 
+Author: Robert Kiyosaki
+Price: $19.99
+
+------Book 2 Details------
+Title: Harry Potter
+Author: J.K. Rowling
+Price: $500
