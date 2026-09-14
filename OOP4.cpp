@@ -30,3 +30,10 @@ int main()
     s1.display();
     return 0;
 }
+
+
+Output:
+------Student Detalis------
+Name: Shivani
+Age: 18
+Course: Machine learning
